@@ -17,4 +17,4 @@ These are all steps that we have done during this project.
 - Training.v: The top module of the project
 - vga.v: The module that is used for sending pixel values to the screen
 - sram.v: Static image storage. We store both RGB and grayscale images in this module and call them in the Training module.
-- binary2.mem: This is the memory file that contains binary data of the "bird.jpg" image. If you use this file in the project, you will see the bird picture on the screen.
+- binary2.mem: This is the memory file that contains binary data of the "bird.jpg" image. If you use this file in the project, you will see the bird picture on the screen. 
