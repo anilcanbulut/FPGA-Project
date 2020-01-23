@@ -14,6 +14,6 @@ In this project, we've tried to make an image processing application by using a 
 These are the all steps that we have done during this project. 
 
 # Project Files
-Training.v: Top module of the project
-vga.v: Module that is used for sending pixel values to the screen
-sram.v: Static image storage. We store both RGB and gray scale images in this module and call them in the Training module.
+-Training.v: Top module of the project
+-vga.v: Module that is used for sending pixel values to the screen
+-sram.v: Static image storage. We store both RGB and gray scale images in this module and call them in the Training module.
